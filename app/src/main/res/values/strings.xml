@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PokeDex</string>
+    <string name="pokedex">PokeDex</string>
+    <string name="choose_list">Choose List</string>
+    <string name="region_list">Region List</string>
+    <string name="pokemon_list">Pokemon List</string>
+    <string name="loading">Loading...</string>
+    <string name="pokemons">Pokemons</string>
+    <string name="favourites">Favourites</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="share">Share</string>
+    <string name="regions">Regions</string>
+</resources>
